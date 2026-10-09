@@ -11,7 +11,7 @@ This repository is a to show my projects that i work on.
 3. Terminal Portfolio Website
 - CODE : https://github.com/Savage404E/Terminal_Portfolio .
 - LIVE : https://savage404e.github.io/Terminal_Portfolio/
-4. NoteCanvas app
-- CODE : https://github.com/Savage404E/NoteCanvas .
-
+4. sonora music
+- CODE : https://github.com/Savage404E/sonora
+- LIVE : https://savage404e.github.io/sonora/
 
